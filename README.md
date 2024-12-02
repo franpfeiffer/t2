@@ -1,3 +1,4 @@
+<!--
 # T2
 
 **T2** is a terminal-based time tracker built with Go.
@@ -19,3 +20,7 @@ brew install t2
 scoop bucket add t2 git@github.com:franpfeiffer/t2-scoop.git
 scoop install t2
 ```
+-->
+
+### NO ANDA NADA 
+### NOTHING IS WORKING
