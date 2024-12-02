@@ -10,7 +10,7 @@ realese an app for distribution.
 
 ### Install via Homebrew (macOS/Linux)
 ```bash
-git clone git@github.com:franpfeiffer/t2-homebrew.git
+git clone git@github.com:franpfeiffer/t2.git
 brew install t2
 ```
 
@@ -18,9 +18,4 @@ brew install t2
 ```bash
 scoop bucket add t2 https://github.com/franpfeiffer/scoop-t2
 scoop install t2
-```
-
-### Install via Go
-```bash
-go install github.com/franpfeiffer/t2
 ```
