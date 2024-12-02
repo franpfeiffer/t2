@@ -10,7 +10,7 @@ realese an app for distribution.
 
 ### Install via Homebrew (macOS/Linux)
 ```bash
-git clone git@github.com:franpfeiffer/t2.git
+brew tap franpfeiffer/t2 --custom-remote "git@github.com:franpfeiffer/t2.git"
 brew install t2
 ```
 
