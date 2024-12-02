@@ -10,12 +10,12 @@ realese an app for distribution.
 
 ### Install via Homebrew (macOS/Linux)
 ```bash
-brew tap franpfeiffer/t2 --custom-remote "git@github.com:franpfeiffer/t2.git"
+brew tap franpfeiffer/t2 git@github.com:franpfeiffer/t2.git
 brew install t2
 ```
 
 ### Install via Scoop (Windows)
 ```bash
-scoop bucket add t2 https://github.com/franpfeiffer/scoop-t2
+scoop bucket add t2 git@github.com:franpfeiffer/t2-scoop.git
 scoop install t2
 ```
