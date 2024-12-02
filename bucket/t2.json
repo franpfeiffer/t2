@@ -1,6 +1,6 @@
 {
     "version": "0.1.0",
-    "url": "https://github.com/franpfeiffer/t2/releases/",
+    "url": "https://github.com/franpfeiffer/t2/releases/tag/0.1.0/t2-amd64.exe/",
     "hash": "81ec48f57d18c6a2ddaed0dc5e656ffd2ddd6fd052ca51faec159b3c6fc531f7",
     "bin": [
         "t2.exe"
