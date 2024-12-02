@@ -1,7 +1,7 @@
 {
     "version": "0.1.0",
     "url": "https://github.com/franpfeiffer/t2/releases/tag/0.1.0/t2-windows-amd64.exe",
-    "hash": "",
+    "hash": "71884b74cc91075b8dfa2cf6e393bff5ac423960e0d7708aa9aedb097c562696",
     "bin": [
         "t2-windows-amd64.exe"
     ]
