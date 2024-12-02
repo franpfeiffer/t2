@@ -13,7 +13,13 @@ realese an app for distribution (bad idea).
 brew tap franpfeiffer/t2
 brew install t2
 ```
+Or `brew install franpfeiffer/t2/t2`.
 
+Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`:
+```bash
+tap "franpfeiffer/t2"
+brew "t2"
+```
 ### Install via Scoop (Windows) NOT WORKING
 ```bash
 scoop bucket add t2 git@github.com:franpfeiffer/scoop-t2.git
