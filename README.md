@@ -10,8 +10,9 @@ realese an app for distribution (bad idea).
 
 ### Install via Homebrew (macOS/Linux)
 ```bash
-brew tap franpfeiffer/t2
-brew install t2
+brew tap franpfeiffer/t2 # create the tap
+brew install t2 # install
+t2 # run
 ```
 Or `brew install franpfeiffer/t2/t2`.
 
