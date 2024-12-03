@@ -20,9 +20,9 @@ Or, in a [`brew bundle`](https://github.com/Homebrew/homebrew-bundle) `Brewfile`
 tap "franpfeiffer/t2"
 brew "t2"
 ```
-### Install via Scoop (Windows) NOT WORKING
+### Install via Scoop (Windows)
 ```bash
-scoop bucket add t2 git@github.com:franpfeiffer/scoop-t2.git
+scoop bucket add t2 git@github.com:franpfeiffer/scoop-t2
 scoop install t2
 ```
 
