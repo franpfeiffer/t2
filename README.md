@@ -13,7 +13,7 @@ You'll need to install the package manager [`Homebrew`](https://brew.sh/). That'
 ### on Windows
 You'll need to install the package manager [`Scoop`](https://scoop.sh/).
 Then, you go to the Environment Variables and under the System Variables, 
-go to Path and add your Scoop installation directory, usually C:\Users\<YourUser>\scoop\shims
+go to Path and add your Scoop installation directory, usually C:\Users\YourUser\scoop\shims
 
 
 ## Installation
